@@ -47,3 +47,8 @@ Passo a passo para instalação das ferramentas necessárias para rodar a aplica
 ## Passo 6: Instalação do Visual Studio Code
 - Acesse o site do [Visual Studio Code](https://code.visualstudio.com) e clique no botão "Download for Windows"
 - Aceite os termos e dê next em todas as opções que aparecer e finalize a instalação clicando em "Consluir";
+# Conclusão
+Tutorial feito com base no vídeo: [Como configurar ambiente React Native no Windows - 2022](https://www.youtube.com/watch?v=4_zDCS2fVAU) <br>
+By: Otávio João Maldaner <br>
+17/09/2022 <br>
+Bom Princípio - RS
