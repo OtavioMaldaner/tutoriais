@@ -43,6 +43,7 @@ Passo a passo para instalação das ferramentas necessárias para rodar a aplica
     - Selecione o tema de sua preferência. Recomendo fortemente o uso do tema "Darcula";
     - Na tela "SDK Components Setup" selecione todas as opçõese altere o Location para a pasta criada em `C:\Android\Sdk`;
     - Selecione next, aceite os termos e finalize a instalação;
+        - Caso a instalação foi em um computador com processador AMD, assista [este vídeo](https://www.youtube.com/watch?v=Y1WhS2yuF8I) para resolver o problema;
 ## Passo 6: Instalação do Visual Studio Code
 - Acesse o site do [Visual Studio Code](https://code.visualstudio.com) e clique no botão "Download for Windows"
 - Aceite os termos e dê next em todas as opções que aparecer e finalize a instalação clicando em "Consluir";
