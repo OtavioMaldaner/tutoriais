@@ -1,0 +1,26 @@
+# Comandos para terminal Linux
+## Comandos Gerais
+* `sudo apt-get nome_do_aplicativo` - Instala o app desejado;
+* `sudo apt-get search nome_do_aplicativo` - Pesquisa um aplicativo na loja pelo nome inserido;
+* `ifconfig` - Informa o endereço IP da máquina;
+## GitHub
+### Login por chave ssh
+* `ssh-keygen -t ed25519 -C "algum_comentario"` - Gerará uma chave SSH;
+* `xclip -sel clip < ~/.ssh/id_ed25519.pub` - Copia a chave SSH gerada;
+* Ir ao seu perfil no GitHub no navegador;
+* Abrir as configurações;
+* Ir até "SSH and GPG keys";
+* Selecionar "New SSH key";
+* Inserir um título coerente a sua tarefa e no campo abaixo inserir a chave gerada no terminal;
+* Ir no terminal e definir seu usuário como global com:
+    * `git config --global user.email "emaildeusuariodogit@email.com"`;
+    * `git config --global user.name "nomedeusuariodogit"`
+### Commits e clone de repositórios 
+* `git clone chave_do_repositório` - Clona um repositório do GitHub;
+
+# Comandos gerais no uso do software
+* `Super + D` - Mostra todas as guias abertas na área de trabalho;
+* `Alt + Tab` - Troca rápida de guia;
+* `Super + '` - Troca rápida de guia;
+* `Super + T` - Abre um novo terminal;
+* `Super` - Amostra resumida das guias abertas;
