@@ -17,6 +17,15 @@
     * `git config --global user.name "nomedeusuariodogit"`
 ### Commits e clone de repositórios 
 * `git clone chave_do_repositório` - Clona um repositório do GitHub;
+* `git status` - Verifica o status do upload dos arquivos;
+* `git add .` - Insere todos os arquivos para upload;
+* `git commit -m "alguma mensagem"` - Upload dos arquivos;
+* `git push` - Envia as alterações para o repositório;
+* `git pull` - Instala as alterações do repositório;
+* `git branch` - Lista as branches do repositório no computador;
+* `git branch -a` - Lista as branches do repositório remoto;
+* `git checkout nome-da-branch` - Troca para a branch informada no comando;
+
 
 # Comandos gerais no uso do software
 * `Super + D` - Mostra todas as guias abertas na área de trabalho;
@@ -24,3 +33,4 @@
 * `Super + '` - Troca rápida de guia;
 * `Super + T` - Abre um novo terminal;
 * `Super` - Amostra resumida das guias abertas;
+* `Super + F` - Abre o gerenciador de arquivos;
